@@ -26,7 +26,7 @@ The configuration looks like this:
 ```
 
 |Property|Mandatory|Description|
-|---|
+|--------|---------|-----------|
 |components|No|All the Zephyr test issues that are related to one of the components are considered. This is ignored when ```epics``` is also set.|
 |epics|No|All the Zephyr test issues that are related to one of the epics are considered. Test issues are related when they are related to story issues that are part of the epic.|
 |jiraEndpoint|Yes|The URL that refers to the JIRA REST API.|
