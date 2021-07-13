@@ -6,7 +6,7 @@
 
   <groupId>net.pincette</groupId>
   <artifactId>pincette-zephyr-maven-plugin</artifactId>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <packaging>maven-plugin</packaging>
   <name>pincette-zephyr-maven-plugin</name>
   <description>Maven plugin for Zephyr Squad Uploader</description>
@@ -61,7 +61,7 @@
     <dependency>
       <groupId>net.pincette</groupId>
       <artifactId>pincette-zephyr-squad</artifactId>
-      <version>1.0</version>
+      <version>1.0.1</version>
     </dependency>
     <dependency>
       <groupId>org.apache.maven</groupId>
